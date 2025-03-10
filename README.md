@@ -18,7 +18,7 @@
 </div>
 
 ### 🌐 Specializations:
-- **Frontend** with Javascript and modern frameworks like **React** and Next.js
+- **Frontend** with Javascript and modern frameworks like **React** and **Next.js**
 - **Backend** with **Node.js**, **Express**, typescript
 - Full end-to-end **Full Stack** development and integration
 
