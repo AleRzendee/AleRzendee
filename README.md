@@ -5,33 +5,18 @@
 🎓 Software engineer student and technology enthusiast.  
 👨‍💻 Working as a **Full Stack Developer**, focused on building scalable and efficient solutions.
 
-### 🚀 Technologies and Tools:
-<div style="display: inline_block"><br>
-  <img align="center" alt="rz-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="rz-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="rz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="rz-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="rz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="rz-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"> 
- 
-  
+<div>
+  <a href="https://beacons.ai/AleRzendee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleRzendee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleRzendee&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-### 🌐 Specializations:
-- **Frontend** with Javascript and modern frameworks like **React** and **Next.js**
-- **Backend** with **Node.js**, **Express**, typescript
-- Full end-to-end **Full Stack** development and integration
-
----
-
-### 🌎 Let's connect!
-<div> 
-  <a href="https://www.youtube.com/@alerezendeee" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rzendeee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/gustavorezendeee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="display: inline-block"><br>
+  <img align="center" alt="Ale-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Ale-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Ale-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Ale-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Ale-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Ale-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Ale-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Ale-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 </div>
-
----
-
-![](https://komarev.com/ghpvc/?username=KlaytonJR&color=green&style=flat-square)
-
