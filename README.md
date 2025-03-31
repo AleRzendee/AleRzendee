@@ -38,6 +38,8 @@
 
 ##
 
+![Snake animation](https://github.com/AleRzendee/AleRzendee/blob/output/github-contribution-grid-snake.svg)
+
 <div> 
   <a href="https://gustavoalerezende.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gustavorezendeee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
